@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913180227283",
+    "project_id": "d-morning",
+    "storage_bucket": "d-morning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913180227283:android:3202a9340157047b9f8626",
+        "android_client_info": {
+          "package_name": "com.d_morning.d_morning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913180227283-nmqptok2ad4e02h17mh7ffvifufg6ar4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuARqmM3zJ4EJyabsQcoiyDU-UxUqQKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913180227283-nmqptok2ad4e02h17mh7ffvifufg6ar4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
